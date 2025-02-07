@@ -85,8 +85,5 @@ This project is open-source under the **MIT License**.
 
 ---
 
-### 🔗 Stay Connected
-📧 For any inquiries, contact: [your.email@example.com](mailto:your.email@example.com)
-
-📌 GitHub Repository: [Smart Cane with MQTT](https://github.com/yourusername/smart-cane-mqtt)
+📌 GitHub Repository: [smart_cane](https://github.com/Candaka/smart_cane)
 
