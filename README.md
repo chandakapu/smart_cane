@@ -32,7 +32,7 @@ You can install them via the **Library Manager** in Arduino IDE.
 
 ### 2. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/smart-cane-mqtt.git
+git clone https://github.com/chandakapu/smart_cane.git
 cd smart-cane-mqtt
 ```
 
