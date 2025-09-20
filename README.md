@@ -85,5 +85,5 @@ This project is open-source under the **MIT License**.
 
 ---
 
-📌 GitHub Repository: [smart_cane](https://github.com/Candaka/smart_cane)
+📌 GitHub Repository: [smart_cane](https://github.com/chandakapu/smart_cane)
 
